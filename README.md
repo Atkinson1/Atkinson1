@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Atkinson1 - Ryan Michael Atkinson
+- 👀 I’m interested in data analysis and expanding my ability to automate scripts, optimize my workflow, and share knowledge.
+- 🌱 I’m currently learning how to: work with tidymodels; 
+- spider and collect resources from web pages; 
+- work with Shiny, plotly, and Leaflet
+- 📫 How to reach me: ryanatkinson083@gmail.com
